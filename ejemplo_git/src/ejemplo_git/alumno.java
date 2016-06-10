@@ -9,13 +9,6 @@ package ejemplo_git;
  *
  * @author Oscar
  */
-public class Ejemplo_git {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Esto es una prueba");
-    }
+public class alumno {
     
 }
